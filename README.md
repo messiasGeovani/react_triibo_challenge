@@ -1,6 +1,8 @@
 # React Triibo Challenge
 > A chat screen maded width React and Typescript
 
+<img src="./assets/screenshot.gif">
+
 ## Development Manual
 
 This project was made with React together with the following technologies:
@@ -16,6 +18,8 @@ This project was made with React together with the following technologies:
 - <b>[Eslint](https://eslint.org/)</b>: This tool helps us to find code pattern problems, analyzing the code and informing us of the pattern errors found.
 
 - <b>[Prettier](https://prettier.io/)</b>: The preetier tool helps us to maintain good code formatting.
+
+---
 
 * ### Instalation
 
@@ -37,6 +41,8 @@ To start the project on localhost, run:
 ```sh
 yarn start
 ```
+
+---
 
 * ### Project Structure
 
@@ -87,3 +93,18 @@ yarn start
 └── yarn.lock
 ```
 
+## Meta
+
+Linkedin Profile – [Messias Geovani](https://www.linkedin.com/in/messias-geovani-00125416a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGnSoFwiETD%2BtGrv4dF9mSw%3D%3D) 
+
+Email – messias.geovani.lima@gmail.com
+
+Github profile – [messiasGeovani](https://github.com/messiasGeovani)
+
+## Contributing
+
+1. Fork it (<https://github.com/messiasGeovani/react_triibo_challenge/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
