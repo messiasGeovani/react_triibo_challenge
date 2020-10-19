@@ -28,7 +28,7 @@ Before starting the installation, create an .env file at the root of the project
 ```
 SKIP_PREFLIGHT_CHECK=true
 ```
-Ps: This will fix the compatibility errors for eslint dependencies.
+ps: this will correct possible compatibility errors for eslint dependencies.
 
 After, run the following command:
 
