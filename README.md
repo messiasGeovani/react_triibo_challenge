@@ -1,11 +1,11 @@
 # React Triibo Challenge
-> A chat screen maded width React and Typescript
+> A chat screen maded with React and Typescript
 
 <img src="./assets/screenshot.gif">
 
 ## Development Manual
 
-This project was made with React together with the following technologies:
+This project was made with <b>[React](https://www.reactjs.org)</b> together with the following technologies:
 
 - <b>[Yarn](https://yarnpkg.com/)</b>: Yarn is a faster and more secure package manager than the standard NodeJS package manager.
 
